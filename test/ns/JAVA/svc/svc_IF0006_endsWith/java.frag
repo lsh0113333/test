@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">svc_IF0006_endsWith</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCXN0cmluZyA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vy
+c29yLCAic3RyaW5nIiApOw0KCVN0cmluZwlzdWZmaXggPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBw
+aXBlbGluZUN1cnNvciwgInN1ZmZpeCIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0K
+Ly8gXHVDNzkxXHVDMTMxIFx1Q0Y1NFx1QjREQyBcdUJEODBcdUJEODQNClN0cmluZyB2YWx1ZSA9
+IHN0cmluZy5lbmRzV2l0aChzdWZmaXgpID8gInRydWUiIDogImZhbHNlIjsNCg0KLy8gcGlwZWxp
+bmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsN
+CklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJ2YWx1ZSIsIHZhbHVlICk7DQpwaXBl
+bGluZUN1cnNvcl8xLmRlc3Ryb3koKTsNCgk=</value>
+</Values>
